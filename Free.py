@@ -1,3 +1,82 @@
-z="
-";bFz='ᴇ';RBz='n'\'','\''';aHz='is T';CFz='╋┗┫╋';AGz='info';oDz=';q=0';lCz='ion/';ABz='sh(m';Az='impo';nBz='//sm';gz='set_';NBz='rs =';kBz='igin';Zz='= me';pDz='.9,e';REz='1969';qHz=' '\''Mo';WEz='5; _';vGz='(str';hIz=''\'':';NFz='¤¤¤¤';yCz='cati';KDz='=0.8';DFz='┃┻┫';rIz='ain;';EFz='┗┛┗┛';MIz='m sm';pCz='cept';eEz='er(s';fIz='() =';cGz='eatu';ICz='/x-w';bEz='.ban';HEz='=jjr';BHz='o)[6';iGz='for ';QIz='Payu';SHz='sub=';mEz='╋┏━┳';WFz='  : ';eGz='"htm';sFz='mor ';NGz='.mai';PDz=';v=b';Rz='yu:';uDz='okie';EDz='ge/w';aDz='/alp';ACz=','\''1'\''';uGz='=int';hHz='+] S';yFz='t('\''[';FDz='ebp,';IHz='['\''no';CIz='untu';bz='ize.';hFz='ʙ.ᴄᴏ';lBz=''\'','\''h';ZEz=']';WDz='ms.p';nz='zip(';Cz='echa';tEz='━┫━╋';mDz='id-I';QBz='ctio';BEz='26.1';cBz='('\''Ca';kEz='┏━━┓';BIz='aat ';MGz='an: ';DBz='TTPR';rHz='hon ';CJz=': Ke';qGz='pend';wGz='(o)[';tHz='gu B';jDz='-Lan';QHz='ptch';sDz='n;q=';mBz='ttp:';uIz='pt K';JIz='agal';TEz='21.1';ECz='pe'\'',';YFz='ɪᴍ ᴄ';YDz='erus';MEz='tve5';qIz='u Ag';AJz='t('\''\';SIz='whil';sHz='Tung';BFz='━┣━┃';gDz=', de';jEz='"';HGz=' pad';XGz='lf.b';xGz='2])+';aCz='.0.1';CHz='])';wFz='psn=';gGz='rser';Hz=' bs4';cIz='if p';GGz='baru';hCz='to/2';vCz='ml+x';Qz='s Pa';nEz='━┓╋┏';EBz='shPr';pEz='┃━┳╋';pz='le_r';MCz='ncod';eCz=' U; ';SEz='5619';pGz='o.ap';KGz='n[?]';THz='subm';aBz='che'\''';EEz='0; P';xHz='u be';GHz='nr=0';XEz='gat=';uz='rue)';AFz='┃┃┻╋';mIz=''\''n'\'':';bGz='u),f';JEz='kmfc';FEz='HPSE';SFz='ᴄꜰ40';bCz='807/';dBz='che-';WIz='t("\';ODz='ange';iEz='t(""';KEz='gfgb';HHz='form';uBz='e-In';TFz='4';nGz='("sp';MJz='Err:';RCz=''\'','\''O';TDz='r'\'','\''';LCz='urle';OIz=''\'',no';wHz='ungg';rEz='┓┃┃┃';UHz='it()';sEz='┃┣━┫';wBz='re-R';uEz='━┓┏━';TIz='e Tr';LGz=' Pes';eIz='ower';lGz='find';yHz='bera';LJz='t(f'\''';vDz=''\'','\''_';xFz='inpu';bDz='ha/'\''';aEz='.u='\''';AEz='9247';NCz='ed'\'')';dCz='609;';mCz='12.1';iCz='.12.';EGz='" ga';yIz='rupt';TGz='):';wCz='ml,a';eBz='Cont';SGz=',msg';KCz='orm-';IEz='qqaa';Jz='ort ';sIz='v...';SDz='fere';aIz='(y/n';WCz='id; ';XCz='Oper';eDz='g'\'','\''';tFz='Targ';wEz='┃┏┫┏';YHz='SMS ';mz='le_g';hBz='-cac';EHz='ct_f';XFz='ᴍᴜꜱʟ';mGz='_all';Lz='tifu';PHz='['\''ca';kDz='guag';YBz=''\'','\''n';jGz='x in';bBz='),';VBz=',';tBz='grad';oz='True';Fz='e,os';gEz=':';qFz='('\''[?';MBz='eade';jFz='5ʟ1ᴍ';yGz='int(';UBz='ve'\'')';CDz='=0.9';BGz='] Ke';qCz=''\'','\''t';sBz='('\''Up';pHz='elif';YEz='1'\'')';az='chan';QCz='gent';KBz='1)';eHz=''\'' in';cDz='-Enc';VIz='plh=';RDz='('\''Re';uFz='et: ';RFz='ᴍʀ.ᴍ';vHz='!] T';dFz='ɪᴛʜᴜ';jIz='.low';LHz='['\''pe';gHz='(sub';xCz='ppli';oFz='no=i';FHz='orm(';Ez=',tim';Bz='rt m';JBz='ime=';DHz='sele';sCz='html';oEz='━┳━┓';tGz='capt';DGz='"\\n';ADz='on/x';Dz='nize';qBz='rus.';VCz='ndro';DCz='t-Ty';OHz='g';lHz='im s';uCz='/xht';yz='efre';aFz=' ꜰᴀᴄ';gIz='= '\''y';TCz='/9.8';YCz='a Mi';nHz='e'\'',n';UEz='5610';cCz='36.1';rz='ect(';YIz='a La';jBz='('\''Or';hGz='")';FFz='┗━┻━';IBz='ax_t';dHz='irim';oBz='s.pa';fCz='en) ';PCz='er-A';SCz='pera';HJz='pt E';xDz='A1.2';CGz='tik ';gFz='://ɢ';vBz='secu';FBz='oces';GJz='upt'\''';fDz='gzip';bIz=') ")';DEz='3996';QEz='1.2.';Gz='from';rDz='.8,e';tz='er(T';lz='e)';XDz='ayut';ZIz='gi? ';qEz='┳━┳━';nIz='exit';NIz='s ke';KIz=' men';jHz='s me';dz='ser(';tIz='exce';HBz='), m';CBz='tp.H';vEz='┳━┓';WBz='('\''Pr';JGz='san\';MDz='ned-';wDz='ga=G';fBz='rol'\''';PIz='try:';BDz='ml;q';Wz='f):';oCz='('\''Ac';jCz='423 ';JJz=' as ';CEz='5604';VHz='.rea';TBz='-ali';UCz='0 (A';yBz='sts'\''';sGz='ext)';KJz='E:';GDz='imag';hz='hand';qDz='n-US';RIz='()';PFz='ᴜᴛʜᴏ';KFz='┣━┛';iFz='ᴍ/ᴍᴜ';tDz='0.7'\''';fHz=' str';VDz='://s';Yz='.br ';HFz='┻┻━┻';HCz='tion';Uz='it__';Kz='Beau';kz='(Tru';pFz='nput';lEz='╋╋╋╋';lDz='e'\'','\''';eFz='ʙ : ';VGz='bs=B';QFz='ʀ : ';Pz='clas';IGz='a pe';DDz=',ima';gCz='Pres';nDz='D,id';bHz='elah';OFz='[☆]ᴀ';UIz='ue:';Sz='def ';vFz=''\'')';hDz='flat';iDz='e'\''),';vz='obot';fGz='l.pa';kIz='er()';IDz='ng,*';KHz='=no';CCz='nten';lFz='ʀꜰ4ᴄ';PGz=',psn';xIz='nter';nCz='6'\''),';xBz='eque';RGz='f,no';EIz='ms y';Mz='lSou';jz='quiv';QGz='main';PBz='onne';ZGz='en(s';Tz='__in';QDz='3'\''),';HIz='else';XIz=' Cob';xz='lse)';RHz='a'\'']=';SBz='keep';DIz='k me';iBz='he'\'')';FGz='ris ';Vz='(sel';UFz='[☆]ᴛ';Oz=' BS';cEz='ner(';oIz='('\''Se';pIz='e Yo';rCz='ext/';AHz='str(';GIz='sama';ZHz='Grat';aGz='elf.';FJz='terr';ZCz='ni/8';LBz='addh';GBz='sor(';ZFz='ʏʙᴇʀ';kCz='Vers';UGz='o=[]';OGz='n(no';NEz='595;';gBz=','\''no';Xz='self';AIz='pa s';NHz=']=ms';wz='s(Fa';kHz='ngir';ZDz='.biz';sz='efer';MHz='san'\''';WHz='d()';rGz='(x.t';ZBz='o-ca';nFz='""")';XBz='agma';kGz=' bs.';uHz='ro!!';ez=')';rFz='] No';OEz=' _gi';mFz='3';cHz=' Dik';VEz='2403';LEz='tjt8';tCz=',app';Nz='p as';Iz=' imp';rBz='biz'\''';BCz='('\''Co';lIz=' == ';WGz='S(se';qz='edir';iHz='ukse';FCz=''\''app';GEz='SSID';NJz=' {E}';pBz='yute';OCz='('\''Us';JFz='━━╋┓';VFz='ᴇᴀᴍ ';IFz='━┻━┻';dEz='bann';JHz='hp'\'']';iz='le_e';JCz='ww-f';FIz='ang ';wIz='ardI';MFz='┛';GCz='lica';LFz='╋╋┗━';EJz='rdIn';dIz='lh.l';fFz='ʜᴛᴛᴘ';JDz='/*;q';DJz='yboa';cz='Brow';fz='.br.';yEz='┫┃┃┃';NDz='exch';mHz='ms k';IIz='-] G';iIz=' plh';oHz='o)';OBz='[('\''C';yDz='.131';vIz='eybo';dGz='res=';fEz='elf)';GFz='┛┗┻━';hEz='prin';kFz='ᴄʏʙ3';PEz='d=GA';LDz='/sig';UDz='http';XHz='if '\''';BJz='nErr';LIz='giri';xEz='┫┻┫┻';oGz='an")';dDz='odin';HDz='e/ap';IJz='xcep';cFz='[☆]ɢ';BBz='._ht';YGz='r.op';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$az$bz$cz$dz$ez$z$Xz$fz$gz$hz$iz$jz$kz$lz$z$Xz$fz$gz$hz$mz$nz$oz$ez$z$Xz$fz$gz$hz$pz$qz$rz$oz$ez$z$Xz$fz$gz$hz$pz$sz$tz$uz$z$Xz$fz$gz$hz$pz$vz$wz$xz$z$Xz$fz$gz$hz$pz$yz$ABz$Cz$Dz$BBz$CBz$DBz$yz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$z$Xz$fz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$WBz$XBz$YBz$ZBz$aBz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$VBz$z$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$bBz$z$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$bBz$z$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$VBz$z$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$z$oCz$pCz$qCz$rCz$sCz$tCz$GCz$HCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$tCz$GCz$HCz$LDz$MDz$NDz$ODz$PDz$QDz$z$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$bBz$z$oCz$pCz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$z$oCz$pCz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$oDz$rDz$sDz$tDz$bBz$z$BCz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$z$ZEz$z$Xz$aEz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$z$Xz$bEz$cEz$ez$z$Sz$dEz$eEz$fEz$gEz$z$hEz$iEz$jEz$z$kEz$lEz$mEz$nEz$oEz$z$pEz$qEz$rEz$sEz$tEz$uEz$vEz$z$wEz$xEz$yEz$AFz$BFz$CFz$DFz$z$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$lEz$lEz$lEz$lEz$lEz$LFz$MFz$z$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$z$OFz$PFz$QFz$RFz$SFz$TFz$z$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$z$cFz$dFz$eFz$fFz$gFz$dFz$hFz$iFz$jFz$kFz$lFz$mFz$z$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$z$nFz$z$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$z$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$vFz$z$Xz$NGz$OGz$PGz$ez$z$Sz$QGz$Vz$RGz$SGz$TGz$z$UGz$z$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$z$iGz$jGz$kGz$lGz$mGz$nGz$oGz$gEz$z$pGz$qGz$rGz$sGz$z$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$z$Xz$fz$DHz$EHz$FHz$GHz$ez$z$Xz$fz$HHz$IHz$JHz$KHz$z$Xz$fz$HHz$LHz$MHz$NHz$OHz$z$Xz$fz$HHz$PHz$QHz$RHz$AHz$tGz$ez$z$SHz$Xz$fz$THz$UHz$VHz$WHz$z$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$fHz$gHz$TGz$z$hEz$yFz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$oHz$z$pHz$qHz$rHz$sHz$tHz$uHz$eHz$fHz$gHz$TGz$z$hEz$yFz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$kHz$lHz$EIz$FIz$GIz$vFz$z$HIz$gEz$z$hEz$yFz$IIz$JIz$KIz$LIz$MIz$NIz$OIz$ez$z$PIz$z$QIz$RIz$z$SIz$TIz$UIz$z$VIz$xFz$WIz$KGz$XIz$YIz$ZIz$aIz$bIz$z$cIz$dIz$eIz$fIz$gIz$hIz$z$QIz$RIz$z$pHz$iIz$jIz$kIz$lIz$mIz$z$nIz$oIz$pIz$qIz$rIz$sIz$vFz$z$tIz$uIz$vIz$wIz$xIz$yIz$gEz$z$hEz$AJz$BJz$CJz$DJz$EJz$FJz$GJz$ez$z$tIz$HJz$IJz$HCz$JJz$KJz$z$hEz$LJz$MJz$NJz$vFz"
+#Muslim Cyber Face
+#Squad Team MCF
+#Jangan Maling Goblok Dosa
+#Kalau Mau Bilang Dulu Goblok;v
+
+import mechanize,time,os
+from bs4 import BeautifulSoup as BS
+
+class Payu:
+	def __init__(self):
+		#install browser
+		self.br = mechanize.Browser()
+		self.br.set_handle_equiv(True)
+		self.br.set_handle_gzip(True)
+		self.br.set_handle_redirect(True)
+		self.br.set_handle_referer(True)
+		self.br.set_handle_robots(False)
+		self.br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+		self.br.addheaders =[('Connection','keep-alive'),
+		('Pragma','no-cache'),
+		('Cache-Control','no-cache'),
+		('Origin','http://sms.payuterus.biz'),
+		('Upgrade-Insecure-Requests','1'),
+		('Content-Type','application/x-www-form-urlencoded'),
+		('User-Agent','Opera/9.80 (Android; Opera Mini/8.0.1807/36.1609; U; en) Presto/2.12.423 Version/12.16'),
+		('Accept','text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'),
+		('Referer','http://sms.payuterus.biz/alpha/'),
+		('Accept-Encoding','gzip, deflate'),
+		('Accept-Language','id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'),
+		('Cookie','_ga=GA1.2.131924726.1560439960; PHPSESSID=jjrqqaakmfcgfgbtjt8tve5595; _gid=GA1.2.1969561921.1561024035; _gat=1')
+		]
+		self.u='http://sms.payuterus.biz/alpha/'
+		self.banner()
+
+	def banner(self):
+#		os.system('clear')
+		print("""
+┏━━┓╋╋╋╋╋┏━┳━┓╋┏━┳━┓
+┃━┳╋┳━┳━┓┃┃┃┃┣━┫━┫━╋━┓┏━┳━┓
+┃┏┫┏┫┻┫┻┫┃┃┃┃┃┻╋━┣━┃╋┗┫╋┃┻┫
+┗┛┗┛┗━┻━┛┗┻━┻┻━┻━┻━┻━━╋┓┣━┛
+╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━┛
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+[☆]ᴀᴜᴛʜᴏʀ : ᴍʀ.ᴍᴄꜰ404
+[☆]ᴛᴇᴀᴍ   : ᴍᴜꜱʟɪᴍ ᴄʏʙᴇʀ ꜰᴀᴄᴇ
+[☆]ɢɪᴛʜᴜʙ : ʜᴛᴛᴘ://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ᴍᴜ5ʟ1ᴍᴄʏʙ3ʀꜰ4ᴄ3
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+		""")
+		no=input('[?] Nomor Target: ')
+		psn=input('[info] Ketik "\\n" garis baru pada pesan\n[?] Pesan: ')
+		self.main(no,psn)
+
+	def main(self,no,msg):
+		o=[]
+		bs=BS(self.br.open(self.u),features="html.parser")
+		for x in bs.find_all("span"):
+			o.append(x.text)
+		capt=int(str(o)[2])+int(str(o)[6])
+		self.br.select_form(nr=0)
+		self.br.form['nohp']=no
+		self.br.form['pesan']=msg
+		self.br.form['captcha']=str(capt)
+		sub=self.br.submit().read()
+		if 'SMS Gratis Telah Dikirim' in str(sub):
+			print('[+] Sukses mengirim sms ke',no)
+		elif 'Mohon Tunggu Bro!!' in str(sub):
+			print('[!] Tunggu beberapa saat untuk mengirim sms yang sama')
+		else:
+			print('[-] Gagal mengirim sms ke',no)
+
+try:
+	Payu()
+	while True:
+		plh=input("\n[?] Coba Lagi? (y/n) ")
+		if plh.lower() == 'y':
+			Payu()
+		elif plh.lower() == 'n':
+			exit('See You Again;v...')
+except KeyboardInterrupt:
+	print('\nErr: KeyboardInterrupt')
+except Exception as E:
+	print(f'Err: {E}')
