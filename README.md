@@ -1,6 +1,5 @@
 # free-message
-<h3>penginstalan:</h3>
-<body bgcolor="grey" text="green"><br>
+<h3>penginstalan:</3><br>
 $ apt update && pkg upgrade<br>
 $ apt install python<br>
 $ apt install git<br>
