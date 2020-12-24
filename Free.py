@@ -1,7 +1,7 @@
-#Muslim Cyber Face
-#Squad Team MCF
-#Jangan Maling Goblok Dosa
-#Kalau Mau Bilang Dulu Goblok;v
+#RsCyber
+#RollyBad
+#Abang Jago
+#Ampun bang jago.
 
 import mechanize,time,os
 from bs4 import BeautifulSoup as BS
@@ -41,9 +41,9 @@ class Payu:
 ┗┛┗┛┗━┻━┛┗┻━┻┻━┻━┻━┻━━╋┓┣━┛
 ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━┛
 ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
-[☆]ᴀᴜᴛʜᴏʀ : ᴍʀ.ᴍᴄꜰ404
-[☆]ᴛᴇᴀᴍ   : ᴍᴜꜱʟɪᴍ ᴄʏʙᴇʀ ꜰᴀᴄᴇ
-[☆]ɢɪᴛʜᴜʙ : ʜᴛᴛᴘ://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ᴍᴜ5ʟ1ᴍᴄʏʙ3ʀꜰ4ᴄ3
+[☆]ᴀᴜᴛʜᴏʀ : Mr. Rstevanus
+[☆]ᴛᴇᴀᴍ   : Ampun Bang Jago
+[☆]ɢɪᴛʜᴜʙ : http://github.com/Rstevanus/RST3V4NUS
 ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 		""")
 		no=input('[?] Nomor Target: ')
